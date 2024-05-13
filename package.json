@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /clean-code-for-frontend-ais",
+    "build": "slidev build --base /clean-code-for-frontend-ais --out docs",
     "dev": "slidev --open",
     "export": "slidev export"
   },
