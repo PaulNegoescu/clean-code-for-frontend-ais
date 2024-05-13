@@ -1,0 +1,1 @@
+function s(e){return e.startsWith("/")?"/clean-code-for-frontend-ais"+e.slice(1):e}function o(e,l){const t=e&&["#","rgb","hsl"].some(r=>e.indexOf(r)===0),n={background:t?e:null,backgroundImage:t?null:e?`url("${s(e)}")`:null,...l};return n.background||delete n.background,n}export{o as h};
