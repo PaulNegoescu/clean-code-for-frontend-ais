@@ -1,1 +1,0 @@
-function r(e){return e.startsWith("/")?"/"+e.slice(1):e}function o(e,l){const t=e&&["#","rgb","hsl"].some(s=>e.indexOf(s)===0),n={background:t?e:null,backgroundImage:t?null:e?`url("${r(e)}")`:null,...l};return n.background||delete n.background,n}export{o as h};
