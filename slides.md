@@ -32,6 +32,15 @@ layoutClass: gap-16
 - Is AI any good at best practices?
 - New-ish front-end techniques for better DX
 
+Online presentation:
+<img src="/qr.png" alt="qr code to online presentation" class="w-30 m-auto -mb-8" />
+
+<div class="absolute">
+
+[https://paulnegoescu.github.io/clean-code-for-frontend-ais/](https://paulnegoescu.github.io/clean-code-for-frontend-ais/)
+
+</div>
+
 ::right::
 
 <Toc minDepth="1" maxDepth="1" class="mt-10"></Toc>
