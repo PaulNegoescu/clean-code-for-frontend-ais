@@ -134,6 +134,17 @@ src: ./pages/3.reasons-for-ai.md
 ---
 
 ---
+layout: section
+---
+
+# The (Secret) Sauce
+## Nuggets of Wizz-dom
+
+---
+src: ./pages/11.tips-and-tricks.md
+---
+
+---
 src: ./pages/thank-you.md
 ---
 

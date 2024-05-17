@@ -1,0 +1,1 @@
+.myContainer[data-v-a33e3706]{background-color:#ff0}.flowRoot[data-v-a33e3706]{display:flow-root}.flowRoot+.myBtn[data-v-a33e3706]:before{content:"Remove ";display:inline}.myBtn[data-v-a33e3706]:where(:not(:has(+.flowRoot))):before{content:"Add ";display:inline}
